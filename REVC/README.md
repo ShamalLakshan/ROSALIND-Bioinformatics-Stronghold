@@ -8,14 +8,12 @@ The reverse complement of a DNA string s
  formed by reversing the symbols of s
 , then taking the complement of each symbol (e.g., the reverse complement of "GTCA" is "TGAC").
 
-*Given:* A DNA string s
- of length at most 1000 bp.
+**Given:** A DNA string s of length at most 1000 bp.
 
-*Return:* The reverse complement sc
- of s
+**Return:** The reverse complement sc of s
 .
 
 ### Sample Dataset
-- AAAACCCGGT
+> AAAACCCGGT
 ### Sample Output
-- ACCGGGTTTT
+> ACCGGGTTTT

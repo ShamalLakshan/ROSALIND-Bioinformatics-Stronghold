@@ -9,13 +9,12 @@ Given a DNA string t
  with 'U' in u
 .
 
-*Given:* A DNA string t
- having length at most 1000 nt.
+**Given:** A DNA string t having length at most 1000 nt.
 
-*Return:* The transcribed RNA string of t
+**Return:** The transcribed RNA string of t
 .
 
 ### Sample Dataset
-- GATGGAACTTGACTACGTAAATT
+> GATGGAACTTGACTACGTAAATT
 ### Sample Output
-- GAUGGAACUUGACUACGUAAAUU
+> GAUGGAACUUGACUACGUAAAUU
