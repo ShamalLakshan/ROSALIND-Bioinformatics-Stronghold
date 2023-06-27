@@ -4,6 +4,6 @@
 
 ---
 
-[DNA - Counting DNA Nucleotides](./DNA)
-[RNA - Transcribing DNA into RNA](./RNA)
-[REVC - Complementing a Strand of DNA](./REVC)
+- [DNA - Counting DNA Nucleotides](./DNA)
+- [RNA - Transcribing DNA into RNA](./RNA)
+- [REVC - Complementing a Strand of DNA](./REVC)
