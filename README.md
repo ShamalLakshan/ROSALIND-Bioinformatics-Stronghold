@@ -1,4 +1,4 @@
-# ROSALIND-Bioinformatics-Stronghold
+# ROSALIND Bioinformatics Stronghold Solutions
 
 ![](https://rosalind.info/static/img/logo.png)
 
