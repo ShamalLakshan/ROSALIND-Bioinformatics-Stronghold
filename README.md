@@ -7,8 +7,8 @@
 - [DNA - Counting DNA Nucleotides](./DNA)
 - [RNA - Transcribing DNA into RNA](./RNA)
 - [REVC - Complementing a Strand of DNA](./REVC)
+- [FIB - Rabbits and Recurrence Relations - Under Development](./FIB)
 <!-- 
-- [FIB - Rabbits and Recurrence Relations]()
 - [GC - Computing GC Content]()
 - [HAMM - Counting Point Mutations]	()
 - [IPRB - Mendel's First Law]()
