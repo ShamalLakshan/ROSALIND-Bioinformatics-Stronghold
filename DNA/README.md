@@ -12,5 +12,6 @@ An example of a length 21 DNA string (whose alphabet contains the symbols 'A', '
 
 ### Sample Dataset
 > AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAAAAAAGAGTGTCTGATAGCAGC
+
 ### Sample Output
 > 20 12 17 21
